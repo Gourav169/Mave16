@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mave16
+- 👋 Hi, I’m @Gourav12
 - 👀 I’m interested in coding, data science.
 - 🌱 I’m currently learning DSA in c++, Data Analysis, Java, R, python.
 - 💞️ I’m looking to collaborate on anything related to data science.
